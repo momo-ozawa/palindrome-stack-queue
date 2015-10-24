@@ -1,4 +1,4 @@
-# Palindrome (Stack/Queue implementation)
+# _Palindrome (Stack/Queue implementation)_
 
 ##### _CIS 313 project:_  Check if a phrase is a palindrome by using a linked stack and a linked queue data structure.
 
